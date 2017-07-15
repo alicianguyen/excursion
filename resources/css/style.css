@@ -3,6 +3,11 @@
   text-align: center;
 }
 
+.video, .image{
+  background-color: black;
+  text-align: center;
+}
+
 h1{
   font-family: Verdana;
   font-weight: normal;
